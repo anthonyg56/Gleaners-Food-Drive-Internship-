@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Katherine Colvin",
+        "position": "Business Solutions Project Management Intern",
+        "src": "https://picsum.photos/200/300/?random",
+        "school": "Purdue",
+        "homeTown": "Fishers, IN",
+        "random": "Fun Fact: I Studied Abroad in Spain for a Few Weeks in June."
+    },
+        {
+            "name": "Yu Shao",
+            "position": "Business Solutions Informatics Analyst Intern",
+            "src": "https://picsum.photos/200/300/?random",
+            "school": "Indiana University",
+            "homeTown": "Dalian, China",
+            "random": ""
+        },
+        {
+            "name": "Mitchell Howie",
+            "position": "Global Project Manager Intern",
+            "src": "https://picsum.photos/200/300/?random",
+            "school": "Purdue",
+            "homeTown": "Cicero, IN",
+            "random": "Quote: “Your Goals are too Farfetched”"
+        },
+        {
+            "name": "Siddhartha Nuthakki",
+            "position": "Informatics Analyst, Business Solutions Intern",
+            "src": "https://picsum.photos/200/300/?random",
+            "school": "IUPUI",
+            "homeTown": "Indianapolis, IN",
+            "random": ""
+        },
+        {
+            "name": "Anthony Gayflor",
+            "position": "IT System Analyst Intern",
+            "src": "https://picsum.photos/200/300/?random",
+            "school": "IUPUI",
+            "homeTown": "Indianapolis, IN",
+            "random": "Quote: Creativity is Just Connecting the Dots"
+        }
+]

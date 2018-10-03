@@ -1,0 +1,13 @@
+.main-appear {
+  opacity: 0; }
+
+.main-appear.main-appear-active {
+  opacity: 1;
+  transition: opacity 3s ease-in; }
+
+.main-leave {
+  transform: translateX(0); }
+
+.main-leave.main-leave-active {
+  transform: translateX(100%);
+  transition: 0.5s ease-in; }

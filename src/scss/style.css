@@ -1,0 +1,28 @@
+* {
+  padding: 0;
+  margin: 0; }
+
+body {
+  background: url("../img/food.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover; }
+
+.col-sm-6 {
+  margin-top: 10px;
+  margin-bottom: 10px; }
+
+.main-appear {
+  opacity: 0; }
+
+.main-appear.main-appear-active {
+  opacity: 1;
+  transition: opacity 3s ease-in; }
+
+.main-leave {
+  transform: translateX(0); }
+
+.main-leave.main-leave-active {
+  transform: translateX(100%);
+  transition: 0.5s ease-in; }
